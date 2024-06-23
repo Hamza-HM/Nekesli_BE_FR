@@ -1,6 +1,10 @@
-"use client"; // Add this line to make it a client component
+"use client";
 
-const PostDetail = ({ params }) => {
+interface PostDetailParams {
+  id: string;
+}
+
+const PostDetail = ({ params }: { params: PostDetailParams }) => {
   return <div className="text-white">Post id is {params.id}</div>;
 };
 
