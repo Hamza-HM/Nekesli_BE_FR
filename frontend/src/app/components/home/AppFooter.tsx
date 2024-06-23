@@ -149,7 +149,7 @@ const Footer = () => {
                     href="#"
                     className="flex items-center space-x-3 transition hover:text-primary"
                   >
-                    <img
+                    <Image
                       className="h-5 w-5"
                       width="32"
                       height="32"
