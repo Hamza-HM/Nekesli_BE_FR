@@ -71,8 +71,8 @@ const Features = () => {
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="https://cdn-icons-png.flaticon.com/512/4341/4341134.png"
+              <Image
+                src="https://img.freepik.com/photos-gratuite/drapeau-palestine_1401-194.jpg?t=st=1719183219~exp=1719186819~hmac=13d3255104da8c8b748737fc11abc538c110894cab73df3aa3a43814094090c4&w=1380"
                 className="w-12"
                 width="512"
                 height="512"
@@ -110,8 +110,8 @@ const Features = () => {
           </div>
           <div className="group relative bg-white dark:bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8">
-              <img
-                src="https://cdn-icons-png.flaticon.com/512/4341/4341160.png"
+              <Image
+                src="https://img.freepik.com/photos-gratuite/drapeau-palestine_1401-194.jpg?t=st=1719183219~exp=1719186819~hmac=13d3255104da8c8b748737fc11abc538c110894cab73df3aa3a43814094090c4&w=1380"
                 className="w-12"
                 width="512"
                 height="512"
@@ -149,8 +149,8 @@ const Features = () => {
           </div>
           <div className="group relative bg-gray-50 dark:bg-gray-900 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
             <div className="relative space-y-8 py-12 p-8 transition duration-300 group-hover:bg-white dark:group-hover:bg-gray-800">
-              <img
-                src="https://cdn-icons-png.flaticon.com/512/4341/4341025.png"
+              <Image
+                src="https://img.freepik.com/photos-gratuite/drapeau-palestine_1401-194.jpg?t=st=1719183219~exp=1719186819~hmac=13d3255104da8c8b748737fc11abc538c110894cab73df3aa3a43814094090c4&w=1380"
                 className="w-12"
                 width="512"
                 height="512"
